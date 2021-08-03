@@ -1,4 +1,4 @@
-/* User experience animations. Dependencies include the jQuery library, Waypoints plugin and Visibility plugin. - Rituvendra */
+/* User experience animations. Dependencies include the jQuery library, Waypoints plugin and Visibility plugin. - rv-iiita */
 $(document).ready(function () {
     $(document).scroll(function () {
         var $nav = $('.fixed-top');
